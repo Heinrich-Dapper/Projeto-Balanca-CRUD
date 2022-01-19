@@ -1,2 +1,2 @@
 # Projeto-Balanca-CRUD
- CRUD de balança de caminhões e trens
+ CRUD em PHP, com HTML e CSS, utilizando Bootstrap.
